@@ -104,6 +104,7 @@ int main()
     addEdge(graph, 1, 3);
     addEdge(graph, 1, 4);
     addEdge(graph, 2, 3);
+    addEdge(graph, 2, 4);
     addEdge(graph, 3, 4);
 
     // print the adjacency list representation of the above graph
